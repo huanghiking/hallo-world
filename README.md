@@ -1,2 +1,7 @@
 # hallo-world
-just another repositiory
+
+hi, human!
+
+This is testing in typeing Chinese words.
+
+這是測試中文，歡迎來到新世界！
