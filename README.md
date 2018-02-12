@@ -3,4 +3,5 @@
 hi, human!
 
 This is testing in typeing Chinese words.
-這是測試中文，觀迎來到新世界！
+
+這是測試中文，歡迎來到新世界！
